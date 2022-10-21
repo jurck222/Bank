@@ -1,0 +1,15 @@
+C:\Users\jurck\projects\vaja01\bin\Debug\net6.0\vaja01.exe
+C:\Users\jurck\projects\vaja01\bin\Debug\net6.0\vaja01.deps.json
+C:\Users\jurck\projects\vaja01\bin\Debug\net6.0\vaja01.runtimeconfig.json
+C:\Users\jurck\projects\vaja01\bin\Debug\net6.0\vaja01.dll
+C:\Users\jurck\projects\vaja01\bin\Debug\net6.0\vaja01.pdb
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.csproj.AssemblyReference.cache
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.AssemblyInfoInputs.cache
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.AssemblyInfo.cs
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.csproj.CoreCompileInputs.cache
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.dll
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\refint\vaja01.dll
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.pdb
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\vaja01.genruntimeconfig.cache
+C:\Users\jurck\projects\vaja01\obj\Debug\net6.0\ref\vaja01.dll
